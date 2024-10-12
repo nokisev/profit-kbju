@@ -4,7 +4,6 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import ru.nokisev.profit.dao.User;
 import ru.nokisev.profit.dto.UserDTO;
 import ru.nokisev.profit.repositories.UserRepository;
 
