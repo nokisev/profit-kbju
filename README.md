@@ -9,7 +9,6 @@ Tech stack:
   - Spring 
   - Redis 
   - Kafka
-<br/>
 - Frontend:
   - React
 
